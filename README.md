@@ -1,11 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KellyKarina&label=Profile%20views&color=0e75b6&style=flat" alt="KellyKarina" /></p>
-  
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Olá+Mundo!+Prazer+Kelly Karina!;&center=true&size=26">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=35&center=true&vCenter=true&width=1000&lines=+Olá+Mundo!+Prazer+Kelly+Karina!+:%29)](https://git.io/typing-svg)
 
+#
 - 💻 atualmente estudando Java, Angular, JavaScript e NodeJS.
 
 <div align="center">
