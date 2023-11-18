@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kellykarina&label=Profile%20views&color=0e75b6&style=flat" alt="kellykarina" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KellyKarina&label=Profile%20views&color=0e75b6&style=flat" alt="KellyKarina" /></p>
   
 <h1 align="center">
   <a href="https://git.io/typing-svg">
