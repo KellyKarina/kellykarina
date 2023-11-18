@@ -1,4 +1,8 @@
-## Oiii eu sou a Kelly Karina
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=+Olá+Mundo!+Prazer+Kelly Karina!;&center=true&size=26">
+  </a>
+</h1>
 
 - 💻 atualmente estudando Java, Angular, JavaScript e NodeJS.
 
