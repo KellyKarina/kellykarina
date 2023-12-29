@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=35&center=true&vCenter=true&width=1000&lines=+Hello+World!+Prazer+Kelly+Karina!+:%29)](https://git.io/typing-svg)
 
 #
-- 💻 atualmente estudando Java, Angular, JavaScript e NodeJS.
+- 💻 atualmente estudando Java, Angular, React, JavaScript e NodeJS.
 
 <div align="center">
   <a href="https://github.com/kellykarina">
